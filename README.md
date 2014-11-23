@@ -13,3 +13,8 @@
 * `sbt clean` -> clean build
 * `sbt compile` -> compile project
 * `sbt android:package` -> package project ( ready for apk transfer )
+
+
+### Requirements
+
+* sbt version >= 13.5
