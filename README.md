@@ -21,3 +21,6 @@
 ### Requirements
 
 * sbt version >= 13.5
+
+
+### Based on [android-skd-plugin](https://github.com/pfn/android-sdk-plugin)
