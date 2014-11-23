@@ -1,6 +1,6 @@
 # Usage
-
-* Generate project with sbt gen-android
+* Clone this repo
+* Generate project with sbt "gen-android <platform-target> <package-name> <name"
 * Put plugin config inside plugins-settings.sbt
 * Put project settings / build tasks etc. inside build.sbt
 
