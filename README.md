@@ -4,11 +4,9 @@
 * Run `sbt` console and generate new project with `gen-android <platform-target> <package-name> <name>`
 * Put plugin config inside `plugins-settings.sbt`
 * Put project settings / build tasks etc. inside `build.sbt`
-* After build changes and *Android Manifest file changes!*  console run `reload` (inside `sbt` console)
+* After build changes and **Android Manifest file changes!**  console run `reload` (inside `sbt` console)
 
 
-
-* `sbt` - run sbt console
 
 ###Most useful commands inside `sbt` console:
 
